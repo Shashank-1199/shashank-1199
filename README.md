@@ -1,18 +1,72 @@
-# 💫 About Me:
-I'm a Devops Engineer 
+# Hi there 👋 I'm Shashank C B
 
+🚀 Data Engineer | Azure | Python | PySpark | ETL | Cloud Data Platforms  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-c-b-aa72a21a2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashank.cb.22@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shashank-1199&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shashank-1199&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-1199&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am a Data Engineer with 3+ years of experience designing, building, and optimizing scalable data pipelines and cloud-based data solutions. Currently working at Tata Consultancy Services (TCS), focusing on Azure-based data engineering and distributed data processing.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shashank-1199&icon=3&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 Professional Experience
+
+**Data Engineer | Tata Consultancy Services (TCS)**  
+- Designed and deployed ETL workflows using Azure Data Factory  
+- Optimized data pipelines using Python, PySpark & SQL in Azure Databricks  
+- Improved data ingestion performance by 25%  
+- Enhanced BI query performance by 20% using optimized data models  
+- Containerized ETL workflows using Docker and orchestrated deployments via Kubernetes  
+
+**Software Engineer | Huawei Technologies**  
+- Developed ITSC & HR dashboards for KPI tracking  
+- Designed backend systems using PostgreSQL  
+- Built frontend visualizations for business insights  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Python | SQL | PySpark  
+
+**Cloud & Big Data:**  
+Azure Data Factory | Azure Databricks | Azure Synapse Analytics  
+Azure Blob Storage | Azure Data Lake | Delta Lake  
+
+**DevOps & Tools:**  
+Docker | Kubernetes | Azure DevOps | Git  
+
+**Visualization:**  
+Power BI   
+
+---
+
+## 📊 What I Focus On
+
+- Scalable ETL Pipeline Development  
+- Data Modeling & Warehousing  
+- Performance Optimization  
+- Cloud-Native Data Architecture  
+- Automation & Monitoring  
+
+---
+
+## 🎓 Education
+
+Bachelor of Information Science & Engineering  
+The National Institute of Engineering  
+
+---
+
+## 📜 Certifications
+
+- Microsoft Certified: Azure Data Fundamentals (DP-900)  
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)  
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: shashank.cb.22@gmail.com    
+
+---
+
+⭐ *"Turning raw data into reliable, scalable, and production-ready data systems."*
